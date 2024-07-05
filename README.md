@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **navegabit.2020@gmail.com**
 
-- 📄 Know about my experiences [in my resume](https://drive.google.com/file/d/1r6h4h5VM4Xck4kkMubftQbX5oohaLX5N/view?usp=sharing)
+- 📄 Know about my experiences [in my resume](https://drive.google.com/file/d/1Y_mId4vFtaVM-8ru7WozaoDq9dYaL3gC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
