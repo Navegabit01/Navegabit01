@@ -61,7 +61,7 @@
     - **Technologies:** Java, MySQL, Python, Django, JavaScript, TypeScript, Angular, PHP, Microservices.
 
 - **Fullstack Developer**
-  - **Dspot** [ 09/05/2022 – 01/10/2023 ]
+  - **Dspot** [ 02/05/2022 – 01/12/2023 ]
     - **City:** Wroclaw | **Country:** Poland
     - **Project:** Aptimyz Ecommerce
     - **Role:** Fullstack
@@ -71,7 +71,7 @@
     - **Technologies:** NodesJs, NestJs, ReactJs, Typescript, Python, Java, Laravel v5.6, PHP, Docker, AWS, MariaDB, EC2, RDS, CloudWatch, Cypress.
 
 - **Fullstack Developer**
-  - **Bidaiondo** [ 04/2019 – 01/2021 ]
+  - **Bidaiondo** [ 04/2019 – 01/2022 ]
     - **City:** Bilbao | **Country:** Spain
     - **Projects:** Cubanacan and Grandslam
     - **Role:** Fullstack
@@ -79,15 +79,6 @@
     - **Description:** Online sale and rental of multiple categories (Hotels, Cars, Excursions).
     - **Team:** 5
     - **Technologies:** NodesJs, Reactjs, Nestjs, Javascript, Typescript, Laravel v5.6, Python, Java, Django, RestFramework.
-
-- **Fullstack Developer**
-  - **Servivip** [ 02/2021 – 04/2022 ]
-    - **Project:** MypimeTrack
-    - **Role:** Fullstack
-    - **Tasks:** Analysis, create new Frontend and Backend features, support and error repair, improvements and code quality.
-    - **Description:** Transportation tracking system.
-    - **Team:** 1
-    - **Technologies:** Angular, Typescript, Java, Android Studio, Javascript, Cypress, Jest, NodesJs, Python, Django, Restframework.
 
 - **Software Developer**
   - **Chamber of Commerce** [ 01/2016 – 01/2021 ]
