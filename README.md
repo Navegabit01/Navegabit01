@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Blockchain, Solidity**
 
-- 👨‍💻 My portfolio is ready for you here [https://navegabit.github.io](https://reynaldocc.github.io)
+- 👨‍💻 My portfolio is ready for you here [https://navegabit.github.io](https://navegabit.github.io)
 
-- 💬 Ask me about **Python, Django, SQL**
+- 💬 Ask me about **Python, Django,Javascript, TypeScript, NestJs, SQL, Postgresql**
 
 - 📫 How to reach me **navegabit.2020@gmail.com**
 
