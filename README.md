@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Blockchain, Solidity**
 
-- 👨‍💻 My portfolio is ready for you here [https://reynaldocc.github.io](https://reynaldocc.github.io)
+- 👨‍💻 My portfolio is ready for you here [https://navegabit.github.io](https://reynaldocc.github.io)
 
 - 💬 Ask me about **Python, Django, SQL**
 
