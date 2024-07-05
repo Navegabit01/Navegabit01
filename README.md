@@ -53,7 +53,7 @@
 - **Software Developer**
   - **Nextlane** [ 15/01/2024 – Current ]
     - **City:** Begona | **Country:** Spain
-    - **Project:** Exporter Registration System
+    - **Project:** New module for car selling (Renault, Mercedes, Mazda, Ford)
     - **Role:** Software Engineer
     - **Tasks:** Analysis, support and error repair, improvements and code quality.
     - **Description:** Car Sales & Rentals.
